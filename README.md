@@ -16,3 +16,4 @@ Building a Webpage About Learning to Build Webpages
 Brian Ekwem
 
 ### 50 Word Description of the Website
+This website is used to demonstrate how to build a webpage, and then how to build a website using only HTML and a little inline CSS. Emphasized will be hyperlinks, HTML Tags for formatting, Images, Video links to YouTube and other media files, and some enrichment. We will create a template file for additional child pages to illustrate more information.
